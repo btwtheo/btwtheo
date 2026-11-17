@@ -1,9 +1,9 @@
-## 👋 Hi, I'm btw
+## 👋 Hi, I'm btwtheo
 
 ```python
 class WhoAmI:
     def __init__(self):
-        self.user = "btw"
+        self.user = "btwtheo"
         self.country = "Norway 🇳🇴"
         self.currently_learning = ["HTML", "CSS", "JavaScript"]
         self.fun_fact = "I develop Minecraft servers"
